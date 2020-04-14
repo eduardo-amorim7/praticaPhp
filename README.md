@@ -1,2 +1,0 @@
-# Coleta
-Projeto Coleta
