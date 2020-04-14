@@ -1,2 +1,2 @@
-# praticaPhp
+# Coleta
 Projeto Coleta
